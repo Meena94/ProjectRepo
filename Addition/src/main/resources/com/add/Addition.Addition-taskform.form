@@ -3,6 +3,13 @@
 <property name="name" value="Addition.Addition-taskform.form"/>
 <property name="displayMode" value="default"/>
 <property name="status" value="0"/>
+<field position="0" name="a" type="InputTextInteger" id="1000909792">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;a (a)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="a"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
 <field position="1" name="b" type="InputTextInteger" id="1332364545">
 <property name="fieldRequired" value="false"/>
 <property name="label" value="quot;enquot;,quot;b (b)quot;"/>
@@ -10,12 +17,15 @@
 <property name="outputBinding" value="b"/>
 <property name="fieldClass" value="java.lang.Integer"/>
 </field>
-<field position="0" name="a" type="InputTextInteger" id="1000909792">
+<field position="2" name="817688415" type="InputText" id="817688415">
 <property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;a (a)quot;"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Sumquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="readonly" value="false"/>
-<property name="outputBinding" value="a"/>
-<property name="fieldClass" value="java.lang.Integer"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="fieldClass" value="java.lang.String"/>
 </field>
 <dataHolder inputId="" name="#0000A0" type="basicType" outId="a" value="java.lang.Integer" id="a"/>
 <dataHolder inputId="" name="#FF54A7" type="basicType" outId="b" value="java.lang.Integer" id="b"/>
