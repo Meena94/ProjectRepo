@@ -1,0 +1,38 @@
+
+<form id="637931237">
+<property name="name" value="DocumentUpload.DocumentUpload-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="2" name="id" type="InputText" id="182040458">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id (id)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="id"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="document1" type="Document" id="986602263">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;document1 (document1)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="document1"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="3" name="name" type="InputText" id="1208520534">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;name (name)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="name"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="document" type="Document" id="776730669">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;document (document)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="document"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="document" value="org.jbpm.document.Document" id="document"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="document1" value="org.jbpm.document.Document" id="document1"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="id" value="java.lang.String" id="id"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="name" value="java.lang.String" id="name"/>
+</form>
