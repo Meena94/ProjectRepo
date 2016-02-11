@@ -8,8 +8,8 @@
   <name>Db</name>
   <dependencies>
     <dependency>
-      <groupId>com.jbpm</groupId>
-      <artifactId>DataTest</artifactId>
+      <groupId>DatabaseConnection</groupId>
+      <artifactId>DatabaseConnection</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
