@@ -1,0 +1,32 @@
+
+<form id="1425259601">
+<property name="name" value="User1-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="document" type="Document" id="148187212">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_document1 (document)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="in_document1"/>
+<property name="outputBinding" value="out_document"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="1" name="id" type="InputText" id="837962346">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_id (id)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="in_id"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="name" type="InputText" id="1540778345">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_name (name)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="in_name"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="in_document1" name="#A7E690" type="basicType" outId="out_document" value="org.jbpm.document.Document" id="document"/>
+<dataHolder inputId="in_document1" name="#B29FE4" type="basicType" outId="out_document1" value="org.jbpm.document.Document" id="document1"/>
+<dataHolder inputId="in_id" name="#FF54A7" type="basicType" outId="" value="java.lang.String" id="id"/>
+<dataHolder inputId="in_name" name="#0000A0" type="basicType" outId="" value="java.lang.String" id="name"/>
+</form>
