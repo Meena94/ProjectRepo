@@ -6,6 +6,13 @@
   <artifactId>Testing</artifactId>
   <version>1.0</version>
   <name>Testing</name>
+  <dependencies>
+    <dependency>
+      <groupId>org.jbpm.simple.dbhandler</groupId>
+      <artifactId>Database</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
   <build>
     <plugins>
       <plugin>
