@@ -17,6 +17,11 @@
       <artifactId>mysql-connector-java</artifactId>
       <version>5.1.26</version>
     </dependency>
+    <dependency>
+      <groupId>com.jbpm</groupId>
+      <artifactId>Inserting</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
